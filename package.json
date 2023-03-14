@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-web-crawler",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "git@github.com:igorpoubel/nodejs-web-crawler.git",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
