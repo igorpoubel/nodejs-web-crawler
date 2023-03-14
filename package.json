@@ -5,7 +5,7 @@
   "repository": "git@github.com:igorpoubel/nodejs-web-crawler.git",
   "license": "MIT",
   "scripts": {
-    "start": "node main.js",
+    "start": "node --no-warnings main.js",
     "test": "jest"
   },
   "devDependencies": {
